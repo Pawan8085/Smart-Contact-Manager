@@ -28,8 +28,8 @@ public boolean send(String to, String from, String subject, String text) {
 		properties.put("mail.smtp.port", "587");
 		properties.put("mail.smtp.host", "smtp.gmail.com");
 		
-		String userName = "kumarpawanm8085";
-		String password = "nvlc mdgd jbrt quhc";
+		String userName = "username";
+		String password = "password";
 		
 		// session
 		
