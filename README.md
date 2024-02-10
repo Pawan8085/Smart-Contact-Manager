@@ -44,25 +44,35 @@ http://localhost:8080/verify-otp
 ```
 http://localhost:8080/user/index
 ```
+![user_home](https://github.com/Pawan8085/Smart-Contact-Manager/assets/101393436/a9b85c69-3802-4d1d-ae47-6246d8484e43)
+
 ### Show Contacts
 ```
 http://localhost:8080/user/show-contacts/{page}
 ```
+![view_contacts](https://github.com/Pawan8085/Smart-Contact-Manager/assets/101393436/0df677d7-d2a2-4466-aa30-2d3ebe523762)
 ### Add Contact
 ```
 http://localhost:8080/user/add-contact
 ```
+![add_contact](https://github.com/Pawan8085/Smart-Contact-Manager/assets/101393436/dddbdf72-1c71-4dd3-8484-e1729ffee1ab)
+
 ### User Profile
 ```
 http://localhost:8080/user/profile
 ```
+![user_profile](https://github.com/Pawan8085/Smart-Contact-Manager/assets/101393436/f919c0a1-0831-4a6d-b6b8-25e66d2663fd)
+
 ### User Setting
 ```
 http://localhost:8080/user/setting
 ```
+![setting](https://github.com/Pawan8085/Smart-Contact-Manager/assets/101393436/85d8a839-4960-4068-9cdc-bab9bd9971c8)
+
 ### User LogOut
 ```
 http://localhost:8080/logout
 ```
+![logout](https://github.com/Pawan8085/Smart-Contact-Manager/assets/101393436/35f526ed-a8d9-4705-9f20-b4f7c8b94b14)
 
 
