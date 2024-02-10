@@ -40,9 +40,29 @@ http://localhost:8080/send-otp
 http://localhost:8080/verify-otp
 ```
 ![Screenshot (1485)](https://github.com/Pawan8085/Smart-Contact-Manager/assets/101393436/b6c9159f-fb28-4a32-b736-3fbd98ef339e)
-### User home
+### User Home
 ```
 http://localhost:8080/user/index
+```
+### Show Contacts
+```
+http://localhost:8080/user/show-contacts/{page}
+```
+### Add Contact
+```
+http://localhost:8080/user/add-contact
+```
+### User Profile
+```
+http://localhost:8080/user/profile
+```
+### User Setting
+```
+http://localhost:8080/user/setting
+```
+### User LogOut
+```
+http://localhost:8080/logout
 ```
 
 
