@@ -74,7 +74,7 @@ public class ForgotController {
 				+ "</h1>"
 				+ "</div>";
 		String from = "kumarpawanm8085@gmail.com";
-		boolean flag = emailService.send(email, from, subject, message);
+		boolean flag = emailService.send(from, email, subject, message);
 		
 		if(flag) {
 			
