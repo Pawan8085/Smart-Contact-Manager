@@ -5,7 +5,7 @@
    * User Registration and Login
    * Password Recovery with Email OTP Verification
    * Pagination and Searching
-   * Payment Integration
+  
 
 &nbsp;
 ## Usage :-
